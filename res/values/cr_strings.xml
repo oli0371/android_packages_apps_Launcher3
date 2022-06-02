@@ -123,5 +123,6 @@
     <string name="about_thanks_cat">Special thanks to</string>
     <string name="about">About</string>
     <string name="about_summary">Info about the Sushi Launcher</string>
-    <string name="about_app_version">Version 2.0</string>
+    <string name="about_app_version">Version 3.0</string>
+    
 </resources>

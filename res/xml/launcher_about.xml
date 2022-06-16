@@ -6,8 +6,12 @@ xmlns:settings="http://schemas.android.com/apk/res-auto">
         <PreferenceScreen
             android:layout="@layout/rice_logo"
             android:key="rice_logo"
-            android:selectable="false" />
-
+            android:selectable="true">
+            <intent
+               android:action="android.intent.action.VIEW"
+               android:data="https://www.youtube.com/watch?v=NKmM1k-JJDA" />
+        </PreferenceScreen>
+        
     <PreferenceCategory 
         android:title="@string/about_thanks_cat" >
 

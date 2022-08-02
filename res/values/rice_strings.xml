@@ -167,221 +167,108 @@
     <string-array translatable="false" name="welcome_message_variants">
         <item>#GetRiced &#127834;</item>
         <item>#Calamares &#129425;</item>
-        <item>#GetHungry &#127858;</item>
+        <item>#GetCurry &#127858;</item>
         <item>#UnliRice &#127834;</item>
-        <item>&#128191; Rice to the Moon - Martins Bruno</item>
-        <item>&#128191; Love the way u rice - Rihoney x Menime</item>
-        <item>&#128191; Legends nevern\'t rice - Against the Curry</item>
+        <item>Welcome to riceDroid</item>
+        <item>Enjoy your stay!</item>
+        <item>Please enjoy our delicacies &#127834;</item>
     </string-array>
     
     <string-array name="quickspace_psa_morning">
-        <item>Good morning!</item>
-        <item>Good morning my friend!</item>
-        <item>What a beautiful day!</item>
-        <item>Have a nice day!</item>
-        <item>Health Glance: A little exercise would be nice</item>
-        <item>Good morning beauty! - not dfntly automated</item>
-        <item>Uhhh.. 5 more minutes...</item>
-        <item>I pour milk first before cereal...</item>
-        <item>Good morning handsome! -not dfntly automated</item>
-        <item>The weather is good, i mean 32C. unsupported msg.</item>
-        <item>Weather is cold hot winter,spring, summer or fall &#128191;</item>
-        <item>That\'s one way to wake up.</item>
-        <item>Rest in peace melatonin.</item>
-        <item>You should change your alarm sounds.</item>
-        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
-        <item>Let\'s get this bread.</item>
-        <item>Check the weather just in case</item>
-        <item>I\'m not alexa, swipe to the left for Google Feed!</item>
-        <item>The weather for today is.. idk</item>
-        <item>Feeling a bit sleepy yet</item>
-        <item>Have you looked outside yet?</item>
-        <item>Health Glance: Stay Hydrated!</item>
-        <item>Let\'s get this done.</item>
+        <item>A little walk seems nice.</item>
+        <item>Brush your teeth mindfully.</item>
+        <item>Start your day hydrated!</item>
+        <item>Get some exercise!</item>
+        <item>Stretch things out!</item>
+        <item>Try starting your day with positivity.</item>
+        <item>It is morning right now.</item>
+        <item>Don\'t forget to check your battery levels!</item>
+        <item>Please don\'t forget to prepare your breakfast.</item>
+        <item>Please check the weather, just in case.</item>
+        <item>Don\'t forget to check your notes!</item>
+        <item>Remember to check your email/messages.</item>
+        <item>Please check your schedule if you have one.</item>
+        <item>You can disable me via home settings.</item>
+        <item>Toggling the switch can fix stucked responses.</item>
+        <item>Enjoy a cup of coffee.</item>
+        <item>Don\'t forget about protein.</item>
+        <item>Eggs make a simple, nutritious breakfast.</item>
+        <item>Enjoy your breakfast.</item>
     </string-array>
     <string-array name="quickspace_psa_noon">
-        <item>Good afternoon..</item>
-        <item>The dawn will arrive sooner or later..</item>
-        <item>Health Glance: Stay Hydrated!</item>
-        <item>A Soda would be nice.</item>
-        <item>Go touch some grass!</item>
-        <item>Do something befor the day ends!</item>
-        <item>Get some snacks while you\'re at it.</item>
-        <item>I want to buy some siomai now..</item>
-        <item>Go out and have fun!</item>
-        <item>If a good time to go out and eat.</item>
-        <item>Did you have fun today?</item>
-        <item>We\'re almost there! Hang on!</item>
-        <item>Let\'s go for some ricebox!</item>
-        <item>It\'s nice to sleep under a tree..</item>
-        <item>I love watching the sunset..</item>
-        <item>Have you eaten your merienda?</item>
-        <item>How about some drinks?</item>
-        <item>Siesta at it\'s finest..</item>
-        <item>Craving for some empanada..</item>
+        <item>Don\'t forget to stay hydrated!</item>
+        <item>Remember to eat some snacks.</item>
+        <item>UV rays are more harmful in the afternoon.</item>
+        <item>It is afternoon right now.</item>
+        <item>Don\'t forget to check your battery levels!</item>
+        <item>Remember to check your email/messages.</item>
+        <item>Please check your to-do list if you have one.</item>
+        <item>Don\'t forget to prepare your dinner.</item>
+        <item>You can disable me via home settings.</item>
+        <item>Toggling the switch can fix stucked responses.</item>
+        <item>Have some fun.</item>
     </string-array>
     <string-array name="quickspace_psa_early_evening">
-        <item>Good Evening!</item>
-        <item>The night comes..</item>
-        <item>Don\'t forget to eat your dinner!</item>
-        <item>Time to relax and eat fries.</item>
-        <item>How about watching something a good movie?</item>
-        <item>Hello, how are you?</item>
-        <item>Maybe try watching some youtube videos</item>
-        <item>Its not bad to watch some news isn\'t it?</item>
-        <item>The eve comes!</item>
-        <item>Hey charge me already!</item>
-        <item>If you\'re aren\'t tired, well I am.</item>
-        <item>A good BULALO soup seems nice.</item>
-        <item>Where iss thee sauccee!!!???</item>
-        <item>Cup noodles is good for your health.. hey its sarcasm btw</item>
-        <item>Health Glance: Don\'t forget to drink water!</item>
-        <item>Health Glance: Don\'t forget to eat your dinner!</item>
-        <item>The day is almost done. Good job surviving!</item>
-        <item>You are amazing, now take some rest!</item>
-        <item>How\'s your day?</item>
-        <item>If you failed today, you can fail again tomorrow, chill.</item>
+        <item>Don\'t forget to stay hydrated!</item>
+        <item>8 hours of sleep is a must.</item>
+        <item>It is evening right now.</item>
+        <item>Remember to full charge me before you sleep.</item>
+        <item>Remember to check your email/messages.</item>
+        <item>Please check your to-do list if you have one.</item>
+        <item>Don\'t forget to eat your dinner.</item>
+        <item>Remember to check the lights and sockets.</item>
+        <item>You can disable me via home settings.</item>
+        <item>Toggling the switch can fix stucked responses.</item>
+        <item>Try to relax and do some rest.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Good night!</item>
-        <item>Sleep well!</item>
-        <item>See you tomorrow!</item>
-        <item>Sweet dreams!</item>
-        <item>Don\'t stay up too long</item>
-        <item>Have a good sleep</item>
-        <item>Get some sleep</item>
-        <item>Time to relax</item>
-        <item>Enjoy the night!</item>
-        <item>Time to charge the batteries!</item>
-        <item>Tomorrow might be a great day</item>
-        <item>Get your bones ready for tomorrow</item>
-        <item>Wala na, finish na.</item>
-        <item>I\'m feeling sleepy now..</item>
-        <item>Why aren\'t you sleep yet?</item>
-        <item>Rest in peace melatonin (2).</item>
-        <item>Dance the night away...</item>
-        <item>Aren\'t the moon and stars amazing? </item>
-        <item>Health Glance: 8 hours of sleep is a must!</item>
-        <item>There are many what ifs in this world. Relax.</item>
+        <item>Don\'t drink too much water before sleeping.</item>
+        <item>It is evening right now.</item>
+        <item>Try to avoid overnight charging if possible.</item>
+        <item>Remember to check your email/messages.</item>
+        <item>Please check your to-do list if you have one.</item>
+        <item>Don\'t forget to eat your dinner.</item>
+        <item>8 hours of sleep is a must.</item>
+        <item>You can disable me via home settings.</item>
+        <item>Toggling the switch can fix stucked responses.</item>
+        <item>Enjoy your sleep.</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Um... good mornight?</item>
-        <item>You sure like coffee...</item>
-        <item>It\'s a bit late now</item>
-        <item>Have you ever think about space at this time?</item>
-        <item>Sleep is for the weak!</item>
-        <item>You should fix your sleep schedule</item>
-        <item>Are you more productive at this time?</item>
-        <item>RIP melatonin.. zzzz</item>
-        <item>zzzzzZZZZzzzzzz</item>
-        <item>I was able to sleep, but you weren\'t!??</item>
-        <item>I bet you lost a lot of ranked matches. LMAO</item>
-        <item>Health Glance: 8 hours of sleep is a must!</item>
-        <item>Go ahead drink a cup of coffee, i\'ll contact st. Peter</item>
+        <item>Sleep defficiency is bad for your health.</item>
+        <item>Don\'t forget to stay hydrated.</item>
+        <item>Being sleep deficit can break melatonin production.</item>
+        <item>It is midnight right now.</item>
+        <item>Remember to take consideration for day duties.</item>
+        <item>You might have a important schedule during the day.</item>
+        <item>Don\'t forget to sleep/prepare your breakfast.</item>
+        <item>You can disable me via home settings.</item>
+        <item>Toggling the switch can fix stucked responses.</item>
+        <item>Please take care of yourself.</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Please tap the riceDroid version at settings for me.</item>
-        <item>Where is the subdivision? - Cynthia</item>
-        <item>What the heal? - definitely not Rafaela</item>
-        <item>You\'re Road - Jenny</item>
-        <item>Health Glance: Stay Hydrated!</item>
-        <item>The clock is just pixels above me...</item>
-        <item>Listen look and listen and learn </item>
-        <item>Life is short, make it shorter.</item>
-        <item>You need to buy Coco Martin to see this feature.</item>
-        <item>Thank you for flashing riceDroid!</item>
-        <item>Nasaaan ang sabaw!!!???? - Baron</item>
-        <item>Don\'t forget to eat your lunch!</item>
-        <item>If you ever feel useless, remember my way.</item>
-        <item>Momo, can i be your dog?</item>
-        <item>You like to get riced huh.</item>
-        <item>Rice Rice Baby!</item>
-        <item>If nobody loves you, i guess you\'re ugly.</item>
-        <item>Unli rice please!</item>
-        <item>Why are you always looking at your homescreen?</item>
-        <item>The weather is nice today.</item>
-        <item>I like chicken curry..</item>
-        <item>Fried chicken seems a good choice.</item>
-        <item>Want some French fries?</item>
-    </string-array>
-
-    <string-array name="quickspace_psa_morning_title">
-        <item>#RiceInTheMorning &#127834;</item>
-        <item>&#128191; KeSha - TiK ToK</item>
-        <item>&#128191; In The Morning - The Bee Gees</item>
-        <item>&#128191; Itzy - In the morning</item>
-        <item>&#128191; Chevy and Nalba - morning coffee</item>
-        <item>&#128191; Kanye West - Good Morning</item>
-        <item>#RiceAndShine &#9728;&#65039;</item>
-        <item>#GoodMorning &#9728;&#65039;</item>
-        <item>#RiceOfTheKing &#128081;</item>
-        <item>#RicingSun &#9728;&#65039;</item>
-        <item>#WarmRice &#127834;</item>
-    </string-array>
-    <string-array name="quickspace_psa_noon_title">
-        <item>#NoonRice &#127834;</item>
-        <item>&#128191; Twice - The Feels</item>
-        <item>&#128191; Bastille - Pompeii </item>
-        <item>&#128191; American Authors - Best Day Of My Life</item>
-        <item>&#128191; Lalisa - Money</item>
-        <item>&#128191; Imagine Dragons - On Top Of The World</item>
-        <item>#Sunset &#127751;</item>
-        <item>#RiceBox &#127834;</item>
-        <item>#SiestaRice &#128081;</item>
-        <item>#RicingNoon &#9729;&#65039;</item>
-        <item>#Afternoon &#127751;</item>
-    </string-array>
-    <string-array name="quickspace_psa_early_evening_title">
-        <item>#MoonRice &#127769;</item>
-        <item>&#128191; My way - Presley Elvis</item>
-        <item>&#128191; Pop! - Nayeon </item>
-        <item>&#128191; Two Less Lonely People in the world - Supply Air</item>
-        <item>&#128191; Nickelback - This Afternoon</item>
-        <item>&#128191; Afternoon - Youth Lagoon</item>
-        <item>#GoodEve &#127769;</item>
-        <item>#Dinner &#127775;</item>
-        <item>#EatRice4Dinner &#127769;</item>
-    </string-array>
-    <string-array name="quickspace_psa_evening_title">
-        <item>#MoonRice &#127769;</item>
-        <item>&#128191; Jo Yuri - Love shhh!</item>
-        <item>&#128191; Viviz - Bop Bop! </item>
-        <item>&#128191; Twice - Dance the Night Away</item>
-        <item>&#128191; Avicii - The Nights</item>
-        <item>&#128191; One Direction - Night Changes</item>
-        <item>#RiceNight &#127769;</item>
-        <item>#RicingStar &#127775;</item>
-        <item>#Goodnight &#127769;</item>
-        <item>#Sleepwell &#128564;</item>
-        <item>#DinnerRice &#127834;</item>
-    </string-array>
-    <string-array name="quickspace_psa_midnight_title">
-        <item>#GetHelp</item>
-        <item>#AreYouOk</item>
-        <item>#SleepNow</item>
-        <item>#GettingDrowzy</item>
-        <item>#Call911</item>
-        <item>#RestinPeace</item>
-        <item>#IfYouWontSleepIwill</item>
-        <item>#RoadToHeaven101</item>
-        <item>#YouWillbe404</item>
-    </string-array>
-    <string-array name="quickspace_psa_random_title">
-        <item>#GetRiced &#127834;</item>
-        <item>#Calamares &#129425;</item>
-        <item>#GetHungry &#127858;</item>
-        <item>#StanTwice &#127853;</item>
-        <item>#GrabASneaker &#127851;</item>
-        <item>#StanViviz &#129418;</item>
-        <item>#UnliRice &#127834;</item>
-        <item>#CurryRice &#127835;</item>
-        <item>&#128191; Fight Song - Manny Pacquiao</item>
-        <item>&#128191; For you i will fight - Manny Pacquiao</item>
-        <item>&#128191; Rice to the Moon - Martins Bruno</item>
-        <item>&#128191; Love the way u rice - Rihoney x Menime</item>
-        <item>&#128191; Curry me to home - The lingsweeps </item>
-        <item>&#128191; Natirang gone - 9 Gloc</item>
-        <item>&#128191; Legends nevern\'t rice - Against the Curry</item>
+        <item>There are easter eggs hidden on this ROM.</item>
+        <item>Remember to check the SimplyWeather app.</item>
+        <item>Try to avoid UV rays during noon.</item>
+        <item>Stay Hydrated!</item>
+        <item>You need to take more water during the day.</item>
+        <item>Laughing can increase bloodflow.</item>
+        <item>Chocolate contains antioxidants.</item>
+        <item>Anxiety can make bad smells even worse.</item>
+        <item>Eating eggs improves your reflexes.</item>
+        <item>Don\'t forget to eat your lunch.</item>
+        <item>Don\'t forget to check your battery levels!</item>
+        <item>Remember to check your email/messages.</item>
+        <item>Please check your to-do list if you have one.</item>
+        <item>You can disable me via home settings.</item>
+        <item>Toggling the switch can fix stucked responses.</item>
+        <item>Try pressing support us on about us preference.</item>
+        <item>Ginataan is food flavored with coconut milk.</item>
+        <item>The Great Wall of China is held with rice.</item>
+        <item>All white rice starts brown.</item>
+        <item>An ice cold drink can refresh you at this hour.</item>
+        <item>Always bring water, if possible.</item>
+        <item>Life is short, make it fun.</item>
+        <item>Enjoy your day!</item>
     </string-array>
 
     <string name="custom_date_strings">EEE, MMM d</string>
@@ -400,7 +287,7 @@
     <string name="perf_dark_status_bar_summary">Use dark status bar on Home screen</string>
     
     <!-- QuickSpace -->
-    <string name="show_quickspace_title">At A Glance (Beta)</string>
-    <string name="show_quickspace_summary">A ricing for your lifeless homescreen - requires dark/light theme toggle to work.</string>
+    <string name="show_quickspace_title">At A Glance wannabe</string>
+    <string name="show_quickspace_summary">At A Glance wannabe - toggle switch in case message doesn\'t update.</string>
     <string name="abbrev_wday_month_day_no_year" translatable="false">EEEEMMMd</string>
 </resources>
